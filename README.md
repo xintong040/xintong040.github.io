@@ -154,77 +154,77 @@ Subjects: Number Theory, Algebraic Geometry, Arithmetic Geometry, Analytic Geome
 <a href="https://arxiv.org/abs/2112.12679">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/12.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 13. Xin Tong. "Geometric and Representation Theoretic Aspects of p-adic Motives." <br>
+ 12. Xin Tong. "Geometric and Representation Theoretic Aspects of p-adic Motives." <br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2201.04785.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern algebraic topology, modern nonarchimedean functional analysis, derived-infinite categorical homotopy theory, derived-infinite category theory, derived-infinite categorical toposes theory, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
 <a href="https://arxiv.org/abs/2201.04785">arXiv</a> 
 </div >
 <div class="prepublications">
- 14. Xin Tong. "Infinite-Categorical Functional Analysis and p-adic Motives."<br>
+ 13. Xin Tong. "Infinite-Categorical Functional Analysis and p-adic Motives."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2112.10616.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology.<br>
 <a href="https://arxiv.org/abs/2112.10616">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/6.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 15. Xin Tong. "Infinite-Categorical Approaches to Hodge-Iwasawa Theory I: Introduction and Extensions." <br>
+ 14. Xin Tong. "Infinite-Categorical Approaches to Hodge-Iwasawa Theory I: Introduction and Extensions." <br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2201.01979.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology. <br>
 <a href="https://arxiv.org/abs/2201.01979">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/5.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 16. Xin Tong. "Infinite-Categorical Perverse p-adic Differential Equations over Stacks." <br>
+ 15. Xin Tong. "Infinite-Categorical Perverse p-adic Differential Equations over Stacks." <br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2201.05003.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology. <br>
 <a href="https://arxiv.org/abs/2201.05003">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/15.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 17. Xin Tong. "Infinite-Categorical Approaches to Hodge-Iwasawa Theory II: Infinite-Categorical and Derived Hodge-Iwasawa Modules."<br>
+ 16. Xin Tong. "Infinite-Categorical Approaches to Hodge-Iwasawa Theory II: Infinite-Categorical and Derived Hodge-Iwasawa Modules."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2311.10022.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology.<br> 
  <a href="https://arxiv.org/abs/2311.10022">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/4.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 18. Xin Tong. "Topologization and Functional Analytification III."<br>
+ 17. Xin Tong. "Topologization and Functional Analytification III."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2405.14180.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology. <br>
 <a href="https://arxiv.org/abs/2405.14180">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/20.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 19. Xin Tong. "Infinite-Categorical Generalized Langlands Program I: Mixed-Parity Modules and Sheaves."<br>
+ 18. Xin Tong. "Infinite-Categorical Generalized Langlands Program I: Mixed-Parity Modules and Sheaves."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2311.10019.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
 <a href="https://arxiv.org/abs/2311.10019">arXiv</a>,  <a href="https://xintong040.github.io/arxiv_articles/10.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 20. Xin Tong. "Arithmetic Hodge-Iwasawa Moduli Stacks."<br>
+ 19. Xin Tong. "Arithmetic Hodge-Iwasawa Moduli Stacks."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2401.09403.<br>
  Subjects: Number Theory, Derived-Infinite Algebraic Geometry, Derived-Infinite Arithmetic Geometry, Derived-Infinite Analytic Geometry, Algebraic Topology. <br>
 <a href="https://arxiv.org/abs/2401.09403">arXiv</a>, <a href="https://arxiv.org/html/2401.09403v1">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/1.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 21. Xin Tong. "Infinite-Categorical Generalized Langlands Program II: Langlands Program Formalism."<br>
+ 20. Xin Tong. "Infinite-Categorical Generalized Langlands Program II: Langlands Program Formalism."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2405.17909.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
 <a href="https://arxiv.org/abs/2405.17909">arXiv</a>, <a href="https://arxiv.org/html/2405.17909v2">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/7.pdf">pdf</a>  
 </div >
 <div class="prepublications">
- 22. Xin Tong. "Infinite-Categorical Generalized Langlands Program III: infinite-Stackification."<br>
+ 21. Xin Tong. "Infinite-Categorical Generalized Langlands Program III: infinite-Stackification."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2406.16757.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
  <a href="https://arxiv.org/abs/2406.16757">arXiv</a>, <a href="https://arxiv.org/html/2406.16757v1">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/8.pdf">pdf</a> 
 </div >
 <div class="prepublications">
- 23. Xin Tong. "Generalized Motives through Witt Vectors."<br>
+ 22. Xin Tong. "Generalized Motives through Witt Vectors."<br>
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2407.01417.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
