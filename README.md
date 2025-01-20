@@ -27,7 +27,7 @@
 <h1>
 XIN TONG PERSONAL SITE <br/>  
 AUTHOR: XIN TONG <br/>  
-UPDATED LAST ON: Dec 8 2024 <br/>  
+UPDATED LAST ON: Jan 20 2025 <br/>  
 </h1>
 </div>
 
@@ -208,7 +208,7 @@ Subjects: Number Theory, Algebraic Geometry, Arithmetic Geometry, Analytic Geome
  Author: Xin Tong.<br>
  ArXiv preprint, available on arXiv, arXiv:2405.17909.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
-<a href="https://arxiv.org/abs/2405.17909">arXiv</a>, <a href="https://arxiv.org/html/2405.17909v2">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/7.pdf">pdf</a>  
+<a href="https://arxiv.org/abs/2405.17909">arXiv</a>, <a href="https://arxiv.org/html/2405.17909v3">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/7.pdf">pdf</a>  
 </div >
 <div class="prepublications">
  21. Xin Tong. "Infinite-Categorical Generalized Langlands Program III: infinite-Stackification."<br>
@@ -223,4 +223,11 @@ Subjects: Number Theory, Algebraic Geometry, Arithmetic Geometry, Analytic Geome
  ArXiv preprint, available on arXiv, arXiv:2407.01417.<br>
  Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
  <a href="https://arxiv.org/abs/2407.01417">arXiv</a>, <a href="https://arxiv.org/html/2407.01417v1">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/3.pdf">pdf</a> 
+</div >
+<div class="prepublications">
+ 23. Xin Tong. "p-adic Local Langlands Correspondence."<br>
+ Author: Xin Tong.<br>
+ ArXiv preprint, available on arXiv, arXiv:2412.12055.<br>
+ Subjects: Modern number theory, modern arithmetic geometry, modern algebraic geometry, modern nonarchimedean functional analysis, derived-infinite categorical homotopical algebraic geometry and derived-infinite categorical homotopical analytic geometry.<br>
+ <a href="https://arxiv.org/abs/2412.12055">arXiv</a>, <a href="https://arxiv.org/html/2412.12055v4">HTML</a>, <a href="https://xintong040.github.io/arxiv_articles/21.pdf">pdf</a> 
 </div >
