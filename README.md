@@ -27,7 +27,7 @@
 <h1>
 XIN TONG PERSONAL SITE <br/>  
 AUTHOR: XIN TONG <br/>  
-UPDATED LAST ON: Jan 20 2025 <br/>  
+UPDATED LAST ON: May 14 2025 <br/>  
 </h1>
 </div>
 
@@ -38,9 +38,7 @@ UPDATED LAST ON: Jan 20 2025 <br/>
 <a href="https://arxiv.org/abs/2011.08358">Cartan_Serre_Schwartz_Type_Endlichkeitssatz_of_Xin_Tong</a>; <br/>
 <a href="https://arxiv.org/abs/2102.13459">Infinite_Categoricalization_and_Geometricalization_on_Local_Langlands_Fargues_Scholze</a>;   <br/>   
 <a href="https://arxiv.org/abs/2210.01404">Infinite_Categoricalization_on_p_adic_Langlands_Emerton_Gee_Hellmann</a>;   <br/>   
-<a href="https://arxiv.org/abs/2201.04785">Infinite_Categoricalization_and_Geometricalization_on_Hodge_Iwasawa_Theory_Xin_Tong</a>;   <br/>   
-<a href="https://arxiv.org/abs/2311.10019">Infinite_Categoricalization_of_Generalized_Langlands_Correspondence_Xin_Tong</a>; <br/>
-<a href="https://arxiv.org/abs/2407.01417">Infinite_Categoricalization_of_Generalized_Motives_Xin_Tong</a>. <br/>
+<a href="https://arxiv.org/abs/2201.04785">Infinite_Categoricalization_and_Geometricalization_on_Hodge_Iwasawa_Theory_Xin_Tong</a>.
 </div>
 
 
